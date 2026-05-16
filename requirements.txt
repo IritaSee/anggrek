@@ -6,3 +6,4 @@ Pillow>=10.0
 scikit-learn>=1.4
 scikit-image>=0.22
 notebook>=7.0
+code-review-graph 
