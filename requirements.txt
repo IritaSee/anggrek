@@ -7,3 +7,5 @@ scikit-learn>=1.4
 scikit-image>=0.22
 notebook>=7.0
 code-review-graph 
+tensorflow==2.18.* 
+tensorflow-metal==1.2.0
